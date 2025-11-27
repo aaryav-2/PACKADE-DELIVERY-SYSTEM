@@ -1,4 +1,4 @@
-# PACKADE-DELIVERY-SYSTEM
+# PACKAGE-DELIVERY-SYSTEM
 
      #include <stdio.h>
      #include <string.h>
